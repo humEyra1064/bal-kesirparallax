@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Domine&family=DynaPuff:wght@400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.section{
+    height:100vh ;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+#section1{
+    background-image: url(balikesir.jpg);
+}
+#section2{
+    background-image: url(ayvalik-sokaklari.jpg);
+}
+/* #section3{
+    background-image: url(edremit.jpg);
+} */
+#section4{
+    background-image: url(Bandirma_3.jpg);
+}
+#section5{
+    background-image: url(erdekk.jpg);
+}
+#section6{
+    background-image: url(altınn.jpg);
+}
+#section7{
+    background-image: url(kaz.jpg);
+}
+h1{width: 20%;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 4rem;
+    color:white;
+    letter-spacing: 4px;
+    background-color: blue;
+    text-align: center;
+   border-radius: 35px 10em 10%;
+   text-align: center;
+   margin: auto;
+  
+
+}
+div p {
+    background-color: rgb(7, 118, 173);
+    color: white;
+    width: 100%;
+    height: auto;
+    text-align: center;
+   
+   padding: 50px;
+ margin-top: 30%;
+
+}
